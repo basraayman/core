@@ -189,6 +189,9 @@ dacite>=1.7.0
 # Musle wheels for pandas 2.2.0 cannot be build for any architecture.
 pandas==2.1.4
 
+# Matplotlib for custom integrations
+matplotlib>=3.6.2
+
 # chacha20poly1305-reuseable==0.12.x is incompatible with cryptography==43.0.x
 chacha20poly1305-reuseable>=0.13.0
 
